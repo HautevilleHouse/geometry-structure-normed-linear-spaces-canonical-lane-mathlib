@@ -1,0 +1,10 @@
+import GeometryStructureNormedLinearSpacesCanonicalLaneLean.AdmissibleClass
+
+namespace HautevilleHouse
+namespace GeometryStructureNormedLinearSpacesCanonicalLaneLean
+
+def NormedWitnessClosed (O : NormedLinearSpaceObject) : Prop :=
+  O.normProperties
+
+end GeometryStructureNormedLinearSpacesCanonicalLaneLean
+end HautevilleHouse
